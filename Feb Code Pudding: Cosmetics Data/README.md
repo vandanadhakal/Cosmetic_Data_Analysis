@@ -35,7 +35,7 @@ The Google Docs Report with Explanation of Visuals can be found <a href='https:/
 
 <summary> Project Description </summary>
 Whether you are in a cosmetic store, pharmacy, or in a grocery aisle, the volume of cosmetic options is overwhelming. Popular brands like La Mer, Estee Lauder, and Dior are really expensive; but are they any good? Does a higher cost indicate a more effective product? We want to discern which cosmetic brands and their respective product types are the best. To do this we will explored brands in terms of average price, ranking, and skin types. We defined a list of products and brands that are applicable to all skin types.
-<img src="https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Many%20Options%20Available.png">
+<img src="https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/Many%20Options%20Available.png">
 </details>
 
 <details open>
@@ -62,7 +62,7 @@ We reviewed that dataset in excel. We looked for problems with the dataset such 
 
 •	We found that both high and low end brands have approxiamtely the same ranking. However, we found more products applicable to all skin types on the high end of pricing. 
 
-<img src= "https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/High%20and%20Low%20End%20Comparison.png">
+<img src= "https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/High%20and%20Low%20End%20Comparison.png">
 </details>
 
 
