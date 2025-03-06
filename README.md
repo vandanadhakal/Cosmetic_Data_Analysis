@@ -1,2 +1,2 @@
 # Cosmetic_Data_Analysis
-Analyzing Cosmetic Dataset from Kaggle using Tableau
+TripleTen Feb Code Pudding: Cosmetic Dataset using Tableau
