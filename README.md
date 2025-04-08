@@ -75,8 +75,8 @@ The TripleTen learning platform is primarily self-paced with deadlines to keep s
 
 <details open>
 
-<summary> Reviewer’s Comments </summary>
-<img src="">
+<summary> Presentation </summary>
+<img src="https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Presentation.png">
 </details>
 
 
