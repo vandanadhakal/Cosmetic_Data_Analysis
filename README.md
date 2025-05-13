@@ -15,7 +15,7 @@ The Google Docs Report with Explanation of Visuals can be found <a href='https:/
 |     2|[`Cosmetic Data - Story.pdf`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/Cosmetics%20Data%20-%20Story.pdf) | Project Story: PDF file |
 |     3|[`Cosmetics Analysis-2.twbx`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Cosmetics%20Analysis-2.twbx ) | Tableau project workbook containing the story, worksheets, and dashboards |
 |     4|[`High and Low End Comparison.png `](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/High%20and%20Low%20End%20Comparison.png) | High-end and low-end price brands comparison: PNG file|
-|     5|[`Many Options Available.png`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Many%20Options%20Available.png ) | Many brands options available: PNG file |
+|     5|[`Many Options Available.png`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/Many%20Options%20Available.png ) | Many brands options available: PNG file |
 |     6|[`Readme.md`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/README.md ) | File with relevant information about the project |
 |     7|[`cosmetics.csv`](https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/cosmetics.csv ) | Cosmetic Dataset: CSV file|
 
