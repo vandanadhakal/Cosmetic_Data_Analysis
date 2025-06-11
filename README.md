@@ -57,7 +57,9 @@ We reviewed that dataset in excel. We looked for problems with the dataset such 
 •	There are 1,472 products among 117 brands that are applicable to a variety of skin type combinations
 
 •	The average price range for cosmetics products is $10 - $184. Individual product prices range from $3 to $370. We explored the High End price and Low End average price of 10 brands (5 per high/low) to determine if a higher price indicates greater effectiveness
+
 •	We found 61 products among 8 brands that are applicable to all skin types
+
 •	We found that both high and low end brands have approxiamtely the same ranking. However, we found more products applicable to all skin types on the high end of pricing
 
 <img src= "https://github.com/vandanadhakal/Cosmetic_Data_Analysis/blob/main/Feb%20Code%20Pudding%3A%20Cosmetics%20Data/High%20and%20Low%20End%20Comparison.png">
